@@ -31,7 +31,4 @@ Mục tiêu: Xây dựng hệ thống lọc tin nhắn rác hiệu quả, có th
    - Ma trận nhầm lẫn (Confusion Matrix).
 
 ---
-| **Actual Non-Spam** | 3              | 64                 |
-
----
 
