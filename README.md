@@ -31,17 +31,6 @@ Mục tiêu: Xây dựng hệ thống lọc tin nhắn rác hiệu quả, có th
    - Ma trận nhầm lẫn (Confusion Matrix).
 
 ---
-
-## Kết quả (ví dụ với Multinomial Naive Bayes + TF-IDF)
-- **Accuracy**: 97.8% trên tập kiểm thử.
-- **Precision**: 0.98
-- **Recall**: 0.97
-- **F1-score**: 0.975
-- **Ma trận nhầm lẫn**:
-
-|                | Predicted Spam | Predicted Non-Spam |
-|----------------|----------------|--------------------|
-| **Actual Spam**     | 56             | 2                  |
 | **Actual Non-Spam** | 3              | 64                 |
 
 ---
